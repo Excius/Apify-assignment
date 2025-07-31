@@ -2,8 +2,6 @@
 
 A modern, full-stack web application for managing and running Apify actors with a beautiful user interface built with React and a Node.js backend.
 
-![ActorHub Banner](https://via.placeholder.com/800x200/4F46E5/FFFFFF?text=ActorHub+-+Apify+Actor+Management)
-
 ## ✨ Features
 
 - **🔐 API Key Authentication** - Secure login with Apify API key validation
