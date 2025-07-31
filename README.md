@@ -4,20 +4,6 @@ A modern, full-stack web application for managing and running Apify actors with 
 
 ![ActorHub Banner](https://via.placeholder.com/800x200/4F46E5/FFFFFF?text=ActorHub+-+Apify+Actor+Management)
 
-## 📋 Table of Contents
-
-- [Features](#features)
-- [Tech Stack](#tech-stack)
-- [Prerequisites](#prerequisites)
-- [Installation & Setup](#installation--setup)
-- [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
-- [API Endpoints](#api-endpoints)
-- [Testing Actor](#testing-actor)
-- [Design Choices & Assumptions](#design-choices--assumptions)
-- [User Flow](#user-flow)
-- [Contributing](#contributing)
-
 ## ✨ Features
 
 - **🔐 API Key Authentication** - Secure login with Apify API key validation
